@@ -1,150 +1,150 @@
 #EXTM3U
-#PLAYLIST:TV Online Ao Vivo — atualizado em 14/11/2026 04:03
-#EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral" content-type="video",Canal 10
+#PLAYLIST:TV Online Ao Vivo — atualizado em 13/11/2026 20:26
+#EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" tvg-logo="" group-title="Geral" content-type="video",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:-1 tvg-id="Unitv" tvg-name="UniTV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral" content-type="video",UniTV
+#EXTINF:-1 tvg-id="Unitv" tvg-name="UniTV" tvg-logo="" group-title="Geral" content-type="video",UniTV
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvzimbo" tvg-name="TV Zimbo" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Angola" content-type="video",TV Zimbo
+#EXTINF:-1 tvg-id="Tvzimbo" tvg-name="TV Zimbo" tvg-logo="" group-title="Geral Angola" content-type="video",TV Zimbo
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Tvaldeia" tvg-name="TV Aldeia" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TV Aldeia
+#EXTINF:-1 tvg-id="Tvaldeia" tvg-name="TV Aldeia" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvarapuan" tvg-name="TV Arapuan" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TV Arapuan
+#EXTINF:-1 tvg-id="Tvarapuan" tvg-name="TV Arapuan" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvbrasiloeste" tvg-name="TV Brasil Oeste" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TV Brasil Oeste
+#EXTINF:-1 tvg-id="Tvbrasiloeste" tvg-name="TV Brasil Oeste" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvmaismaric" tvg-name="TV Mais Maricá" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TV Mais Maricá
+#EXTINF:-1 tvg-id="Tvmaismaric" tvg-name="TV Mais Maricá" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Mais Maricá
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvmarajoara" tvg-name="TV Marajoara" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TV Marajoara
+#EXTINF:-1 tvg-id="Tvmarajoara" tvg-name="TV Marajoara" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvmetropole" tvg-name="TV Metropole" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TV Metropole
+#EXTINF:-1 tvg-id="Tvmetropole" tvg-name="TV Metropole" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvnbn" tvg-name="TVNBN" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Brasil" content-type="video",TVNBN
+#EXTINF:-1 tvg-id="Tvnbn" tvg-name="TVNBN" tvg-logo="" group-title="Geral Brasil" content-type="video",TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="Agapetv" tvg-name="Agape TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral El Salvador" content-type="video",Agape TV
+#EXTINF:-1 tvg-id="Agapetv" tvg-name="Agape TV" tvg-logo="" group-title="Geral El Salvador" content-type="video",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11Tutv" tvg-name="Canal 11 TuTV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral El Salvador" content-type="video",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11Tutv" tvg-name="Canal 11 TuTV" tvg-logo="" group-title="Geral El Salvador" content-type="video",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal3Impresionante" tvg-name="Canal 3 Impresionante" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral El Salvador" content-type="video",Canal 3 Impresionante
+#EXTINF:-1 tvg-id="Canal3Impresionante" tvg-name="Canal 3 Impresionante" tvg-logo="" group-title="Geral El Salvador" content-type="video",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:-1 tvg-id="Megavisioncanal19" tvg-name="Megavision Canal 19" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral El Salvador" content-type="video",Megavision Canal 19
+#EXTINF:-1 tvg-id="Megavisioncanal19" tvg-name="Megavision Canal 19" tvg-logo="" group-title="Geral El Salvador" content-type="video",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="Megavisioncanal21" tvg-name="Megavision Canal 21" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral El Salvador" content-type="video",Megavision Canal 21
+#EXTINF:-1 tvg-id="Megavisioncanal21" tvg-name="Megavision Canal 21" tvg-logo="" group-title="Geral El Salvador" content-type="video",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="Rtvcanal57" tvg-name="RTV Canal 57" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral El Salvador" content-type="video",RTV Canal 57
+#EXTINF:-1 tvg-id="Rtvcanal57" tvg-name="RTV Canal 57" tvg-logo="" group-title="Geral El Salvador" content-type="video",RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:-1 tvg-id="Canal21Tachira" tvg-name="Canal 21 Tachira" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Canal 21 Tachira
+#EXTINF:-1 tvg-id="Canal21Tachira" tvg-name="Canal 21 Tachira" tvg-logo="" group-title="Geral Venezuela" content-type="video",Canal 21 Tachira
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
-#EXTINF:-1 tvg-id="Catatumbotv" tvg-name="Catatumbo TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Catatumbo TV
+#EXTINF:-1 tvg-id="Catatumbotv" tvg-name="Catatumbo TV" tvg-logo="" group-title="Geral Venezuela" content-type="video",Catatumbo TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-id="Islatv" tvg-name="Isla TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Isla TV
+#EXTINF:-1 tvg-id="Islatv" tvg-name="Isla TV" tvg-logo="" group-title="Geral Venezuela" content-type="video",Isla TV
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Latinatv" tvg-name="Latina TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Latina TV
+#EXTINF:-1 tvg-id="Latinatv" tvg-name="Latina TV" tvg-logo="" group-title="Geral Venezuela" content-type="video",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
-#EXTINF:-1 tvg-id="Promartv" tvg-name="PromarTV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",PromarTV
+#EXTINF:-1 tvg-id="Promartv" tvg-name="PromarTV" tvg-logo="" group-title="Geral Venezuela" content-type="video",PromarTV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="Siembratv" tvg-name="Siembra TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Siembra TV
+#EXTINF:-1 tvg-id="Siembratv" tvg-name="Siembra TV" tvg-logo="" group-title="Geral Venezuela" content-type="video",Siembra TV
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecolor" tvg-name="Telecolor" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Telecolor
+#EXTINF:-1 tvg-id="Telecolor" tvg-name="Telecolor" tvg-logo="" group-title="Geral Venezuela" content-type="video",Telecolor
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-#EXTINF:-1 tvg-id="Televisoradeoriente" tvg-name="Televisora de Oriente" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Televisora de Oriente
+#EXTINF:-1 tvg-id="Televisoradeoriente" tvg-name="Televisora de Oriente" tvg-logo="" group-title="Geral Venezuela" content-type="video",Televisora de Oriente
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#EXTINF:-1 tvg-id="Trt" tvg-name="TRT" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",TRT
+#EXTINF:-1 tvg-id="Trt" tvg-name="TRT" tvg-logo="" group-title="Geral Venezuela" content-type="video",TRT
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-#EXTINF:-1 tvg-id="Valetv" tvg-name="Vale TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Vale TV
+#EXTINF:-1 tvg-id="Valetv" tvg-name="Vale TV" tvg-logo="" group-title="Geral Venezuela" content-type="video",Vale TV
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
-#EXTINF:-1 tvg-id="Venevisioninternacional" tvg-name="Venevision Internacional" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Geral Venezuela Geral" content-type="video",Venevision Internacional
+#EXTINF:-1 tvg-id="Venevisioninternacional" tvg-name="Venevision Internacional" tvg-logo="" group-title="Geral Venezuela" content-type="video",Venevision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-id="Mastalk" tvg-name="Mas Talk" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento" content-type="video",Mas Talk
-https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-#EXTINF:-1 tvg-id="Chromatv" tvg-name="Chroma TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento Brasil" content-type="video",Chroma TV
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="Loading" tvg-name="Loading" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento Brasil" content-type="video",Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Redebrasil" tvg-name="Rede Brasil" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento Brasil" content-type="video",Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Redengt" tvg-name="Rede NGT" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento Brasil" content-type="video",Rede NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="Tvcurua" tvg-name="TV Curuça" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento Brasil" content-type="video",TV Curuça
-https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 tvg-id="Umatv" tvg-name="UMA TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Entretenimento Brasil" content-type="video",UMA TV
-https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Btatv" tvg-name="BTA TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Música" content-type="video",BTA TV
-https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="Muzangalatv" tvg-name="Muzangala TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Música" content-type="video",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-id="Elcaminotv" tvg-name="El Camino TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",El Camino TV
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="Gospelcartoon" tvg-name="Gospel Cartoon" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="Impdtvworldwide" tvg-name="IMPD TV Worldwide" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",IMPD TV Worldwide
-https://igrejamundial.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Kktv" tvg-name="KK TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",KK TV
-https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Redegospel" tvg-name="Rede Gospel" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",Rede Gospel
-https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Rittv" tvg-name="RIT TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-id="Tvpadrecicero" tvg-name="TV Padre Cicero" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",TV Padre Cicero
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvterceiroanjo" tvg-name="TV Terceiro Anjo" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",TV Terceiro Anjo
-https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvuniversal" tvg-name="TV Universal" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso" content-type="video",TV Universal
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Josuetv" tvg-name="Josue TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso El Salvador Religioso" content-type="video",Josue TV
-https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="Tabertv" tvg-name="TaberTV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso El Salvador Religioso" content-type="video",TaberTV
-https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvcret" tvg-name="TV CRET" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso El Salvador Religioso" content-type="video",TV CRET
-https://radiocret.net:8082/hls/tvcret.m3u8
-#EXTINF:-1 tvg-id="Tvgetsemani" tvg-name="TV Getsemani" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso El Salvador Religioso" content-type="video",TV Getsemani
-https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:-1 tvg-id="Tvleondejuda" tvg-name="TV Leon de Juda" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso El Salvador Religioso" content-type="video",TV Leon de Juda
-https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:-1 tvg-id="Reformatv" tvg-name="Reforma TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Religioso Venezuela Religioso" content-type="video",Reforma TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Ebs" tvg-name="EBS" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Cultura" content-type="video",EBS
-https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-#EXTINF:-1 tvg-id="Stztv" tvg-name="STZ TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Cultura Brasil" content-type="video",STZ TV
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvers" tvg-name="TVE RS" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Cultura Brasil" content-type="video",TVE RS
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvlifeamerica" tvg-name="TV Life America" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Cultura Brasil" content-type="video",TV Life America
-https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="Tvufop" tvg-name="TV UFOP" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Cultura Brasil" content-type="video",TV UFOP
-https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 tvg-id="Unisultv" tvg-name="UNISUL TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Cultura Brasil" content-type="video",UNISUL TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-id="Legislativeassemblyofelsalvador" tvg-name="Legislative Assembly of El Salvador" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Legislativo" content-type="video",Legislative Assembly of El Salvador
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-id="Tvcmara" tvg-name="TV Câmara" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Legislativo" content-type="video",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="Ploustv" tvg-name="Plous TV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Estilo de Vida" content-type="video",Plous TV
-https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Geekdot" tvg-name="Geekdot" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Animacao Brasil" content-type="video",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Animacao Brasil" content-type="video",Record
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Animacao Brasil" content-type="video",SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-id="Awtv" tvg-name="AWTV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Classicos Brasil" content-type="video",AWTV
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Canaleducao" tvg-name="Canal Educação" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Educacao Brasil" content-type="video",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="Istv" tvg-name="ISTV" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Educacao Brasil" content-type="video",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="Recordnews" tvg-name="Record News" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Brasil" content-type="video",Record News
+#EXTINF:-1 tvg-id="Recordnews" tvg-name="Record News" tvg-logo="" group-title="Notícias Brasil" content-type="video",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="Tcm10Hd" tvg-name="TCM 10 HD" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Brasil" content-type="video",TCM 10 HD
+#EXTINF:-1 tvg-id="Tcm10Hd" tvg-name="TCM 10 HD" tvg-logo="" group-title="Notícias Brasil" content-type="video",TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-id="Tvbrusque" tvg-name="TV Brusque" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Brasil" content-type="video",TV Brusque
+#EXTINF:-1 tvg-id="Tvbrusque" tvg-name="TV Brusque" tvg-logo="" group-title="Notícias Brasil" content-type="video",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvdeonews" tvg-name="TVídeoNews" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Brasil" content-type="video",TVídeoNews
+#EXTINF:-1 tvg-id="Tvdeonews" tvg-name="TVídeoNews" tvg-logo="" group-title="Notícias Brasil" content-type="video",TVídeoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvzoom" tvg-name="TV Zoom" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Brasil" content-type="video",TV Zoom
+#EXTINF:-1 tvg-id="Tvzoom" tvg-name="TV Zoom" tvg-logo="" group-title="Notícias Brasil" content-type="video",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Venezuela Noticias" content-type="video",Telesur
+#EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="" group-title="Notícias Venezuela" content-type="video",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesurenglish" tvg-name="Telesur English" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Noticias Venezuela Noticias" content-type="video",Telesur English
+#EXTINF:-1 tvg-id="Telesurenglish" tvg-name="Telesur English" tvg-logo="" group-title="Notícias Venezuela" content-type="video",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvseries1Aspanteras" tvg-name="TV Series 1 As Panteras" tvg-logo="https://canais.tvonlineaovivo.com.br/wp-content/uploads/2026/04/logosbt-420x237.webp" group-title="Series Brasil" content-type="video",TV Series 1 As Panteras
+#EXTINF:-1 tvg-id="Mastalk" tvg-name="Mas Talk" tvg-logo="" group-title="Entretenimento" content-type="video",Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="Chromatv" tvg-name="Chroma TV" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading" tvg-name="Loading" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Redebrasil" tvg-name="Rede Brasil" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Redengt" tvg-name="Rede NGT" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="Tvcurua" tvg-name="TV Curuça" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",TV Curuça
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="Umatv" tvg-name="UMA TV" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Tvseries1Aspanteras" tvg-name="TV Series 1 As Panteras" tvg-logo="" group-title="Séries Brasil" content-type="video",TV Series 1 As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot" tvg-name="Geekdot" tvg-logo="" group-title="Animação Brasil" content-type="video",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="" group-title="Animação Brasil" content-type="video",Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT" tvg-logo="" group-title="Animação Brasil" content-type="video",SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-id="Btatv" tvg-name="BTA TV" tvg-logo="" group-title="Música" content-type="video",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-id="Muzangalatv" tvg-name="Muzangala TV" tvg-logo="" group-title="Música" content-type="video",Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="Elcaminotv" tvg-name="El Camino TV" tvg-logo="" group-title="Religioso" content-type="video",El Camino TV
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="Gospelcartoon" tvg-name="Gospel Cartoon" tvg-logo="" group-title="Religioso" content-type="video",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="Impdtvworldwide" tvg-name="IMPD TV Worldwide" tvg-logo="" group-title="Religioso" content-type="video",IMPD TV Worldwide
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Kktv" tvg-name="KK TV" tvg-logo="" group-title="Religioso" content-type="video",KK TV
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Redegospel" tvg-name="Rede Gospel" tvg-logo="" group-title="Religioso" content-type="video",Rede Gospel
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Rittv" tvg-name="RIT TV" tvg-logo="" group-title="Religioso" content-type="video",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="Tvpadrecicero" tvg-name="TV Padre Cicero" tvg-logo="" group-title="Religioso" content-type="video",TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvterceiroanjo" tvg-name="TV Terceiro Anjo" tvg-logo="" group-title="Religioso" content-type="video",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvuniversal" tvg-name="TV Universal" tvg-logo="" group-title="Religioso" content-type="video",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Josuetv" tvg-name="Josue TV" tvg-logo="" group-title="Religioso El Salvador" content-type="video",Josue TV
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-id="Tabertv" tvg-name="TaberTV" tvg-logo="" group-title="Religioso El Salvador" content-type="video",TaberTV
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvcret" tvg-name="TV CRET" tvg-logo="" group-title="Religioso El Salvador" content-type="video",TV CRET
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="Tvgetsemani" tvg-name="TV Getsemani" tvg-logo="" group-title="Religioso El Salvador" content-type="video",TV Getsemani
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="Tvleondejuda" tvg-name="TV Leon de Juda" tvg-logo="" group-title="Religioso El Salvador" content-type="video",TV Leon de Juda
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="Reformatv" tvg-name="Reforma TV" tvg-logo="" group-title="Religioso Venezuela" content-type="video",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Ebs" tvg-name="EBS" tvg-logo="" group-title="Cultura" content-type="video",EBS
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-id="Stztv" tvg-name="STZ TV" tvg-logo="" group-title="Cultura Brasil" content-type="video",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvers" tvg-name="TVE RS" tvg-logo="" group-title="Cultura Brasil" content-type="video",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvlifeamerica" tvg-name="TV Life America" tvg-logo="" group-title="Cultura Brasil" content-type="video",TV Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="Tvufop" tvg-name="TV UFOP" tvg-logo="" group-title="Cultura Brasil" content-type="video",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="Unisultv" tvg-name="UNISUL TV" tvg-logo="" group-title="Cultura Brasil" content-type="video",UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="Canaleducao" tvg-name="Canal Educação" tvg-logo="" group-title="Educação Brasil" content-type="video",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="Istv" tvg-name="ISTV" tvg-logo="" group-title="Educação Brasil" content-type="video",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="Legislativeassemblyofelsalvador" tvg-name="Legislative Assembly of El Salvador" tvg-logo="" group-title="Legislativo" content-type="video",Legislative Assembly of El Salvador
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="Tvcmara" tvg-name="TV Câmara" tvg-logo="" group-title="Legislativo" content-type="video",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="Awtv" tvg-name="AWTV" tvg-logo="" group-title="Clássicos Brasil" content-type="video",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Ploustv" tvg-name="Plous TV" tvg-logo="" group-title="Estilo de Vida" content-type="video",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8

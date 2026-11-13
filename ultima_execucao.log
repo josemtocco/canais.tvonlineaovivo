@@ -1,0 +1,223 @@
+==========================================================================
+ TV ONLINE AO VIVO -> M3U para SS IPTV
+ Inicio: 13/11/2026 20:22:32
+==========================================================================
+
+[1/5] Lendo as categorias do site...
+Categorias encontradas no site: 37
+
+[2/5] Coletando canais (1a pagina + 'Carregar mais' ate o fim)...
+   animacao                           paginas=2   canais=6
+   animacao/brazil                    paginas=2   canais=6
+   infantil                           paginas=2   canais=6
+   infantil/brazil-infantil           paginas=2   canais=6
+   classicos                          paginas=2   canais=4
+   classicos/brazil-classicos         paginas=2   canais=4
+   series                             paginas=2   canais=5
+   series/brazil-series               paginas=2   canais=5
+   cultura                            paginas=2   canais=9
+   cultura/brazil-cultura             paginas=2   canais=8
+   noticias                           paginas=2   canais=19
+   noticias/brazil-noticias           paginas=2   canais=19
+   educacao                           paginas=2   canais=8
+   educacao/brazil-educacao           paginas=2   canais=8
+   entretenimento                     paginas=2   canais=17
+   entretenimento/brazil-entretenimento paginas=2   canais=16
+   geral                              paginas=2   canais=18
+   geral/brazil-geral                 paginas=2   canais=18
+   legislativo                        paginas=2   canais=11
+   musica                             paginas=2   canais=6
+   religioso                          paginas=2   canais=19
+   cultura/ethiopia                   paginas=2   canais=4
+   entretenimento/venezuela           paginas=2   canais=4
+   geral/el-salvador                  paginas=2   canais=11
+   geral/venezuela-geral              paginas=2   canais=19
+   geral/angola                       paginas=2   canais=4
+   legislativo/el-salvador-legislativo paginas=2   canais=4
+   estilo-de-vida                     paginas=2   canais=4
+   estilo-de-vida/venezuela-estilo-de-vida paginas=2   canais=4
+   musica/venezuela-musica            paginas=2   canais=4
+   musica/angola-musica               paginas=2   canais=4
+   noticias/venezuela-noticias        paginas=2   canais=6
+   religioso/el-salvador-religioso    paginas=2   canais=12
+   religioso/angola-religioso         paginas=2   canais=4
+   religioso/venezuela-religioso      paginas=2   canais=4
+   esportes                           paginas=2   canais=4
+   esportes/el-salvador-esportes      paginas=2   canais=4
+
+   Total de canais unicos encontrados no site: 124
+
+[3/5] Extraindo o link de video de cada canal...
+   Situacao dos canais:
+     ok               117
+     youtube          4
+     embed            3
+
+[4/5] Testando se os links estao tocando...
+
+   TOCANDO ............ 74
+   NAO TOCANDO ........ 43  (contam falha)
+   YOUTUBE/EMBED ...... 7  (nao tocam no SS IPTV, ignorados)
+
+   --- canais OK ---
+     [OK]   Agape TV                                   https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil
+     [OK]   AWTV                                       https://awtv.nuvemplay.live/hls/stream.m3u8
+     [OK]   BTA TV                                     https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u
+     [OK]   Canal 10                                   https://5ca3e84a76d30.streamlock.net/tves/videotves/playli
+     [OK]   Canal 11 TuTV                              https://stream.giostreaming.app/canal11/canal11.m3u8
+     [OK]   Canal 21 Tachira                           https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+     [OK]   Canal 3 Impresionante                      https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+     [OK]   Canal Educação                             https://canaleducacao-stream.ebc.com.br/index.m3u8
+     [OK]   Catatumbo TV                               https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbo
+     [OK]   Chroma TV                                  https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3
+     [OK]   EBS                                        https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+     [OK]   El Camino TV                               https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playli
+     [OK]   Geekdot                                    https://stream.ichibantv.com:3764/hybrid/play.m3u8
+     [OK]   Gospel Cartoon                             https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playli
+     [OK]   IMPD TV Worldwide                          https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+     [OK]   Isla TV                                    https://59d39900ebfb8.streamlock.net/islatv/islatv/playlis
+     [OK]   ISTV                                       https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.
+     [OK]   Josue TV                                   https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbft
+     [OK]   KK TV                                      https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/pla
+     [OK]   Latina TV                                  https://streamtv.latinamedios.com:3413/live/latinatvlive.m
+     [OK]   Legislative Assembly of El Salvador        https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+     [OK]   Loading                                    https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+     [OK]   Mas Talk                                   https://vod2live.univtec.com/manifest/89290956-94ab-4950-a
+     [OK]   Megavision Canal 19                        https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/maste
+     [OK]   Megavision Canal 21                        https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/maste
+     [OK]   Muzangala TV                               https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzanga
+     [OK]   Plous TV                                   https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+     [OK]   PromarTV                                   https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+     [OK]   Record                                     https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_51
+     [OK]   Record News                                https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+     [OK]   Rede Brasil                                https://redebrasil.nuvemplay.live/hls/stream.m3u8
+     [OK]   Rede Gospel                                https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+     [OK]   Rede NGT                                   https://isaocorp.cloudecast.com/ngt/index.m3u8
+     [OK]   Reforma TV                                 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/p
+     [OK]   RIT TV                                     https://acesso.ecast.site:3648/live/ritlive.m3u8
+     [OK]   RTV Canal 57                               https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+     [OK]   SBT                                        https://video05.logicahost.com.br/tvguajara/tvguajara/play
+     [OK]   Siembra TV                                 https://cloud2.streaminglivehd.com:1936/siembratv/siembrat
+     [OK]   STZ TV                                     https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlis
+     [OK]   TaberTV                                    https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/
+     [OK]   TCM 10 HD                                  https://live.tcm10.com.br/tcm10hd/stream.m3u8
+     [OK]   Telecolor                                  https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+     [OK]   Telesur                                    https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/pl
+     [OK]   Telesur English                            https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/play
+     [OK]   Televisora de Oriente                      https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+     [OK]   TRT                                        https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+     [OK]   TV Aldeia                                  https://stmv1.samcast.com.br/giovane7843/giovane7843/playl
+     [OK]   TV Arapuan                                 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_
+     [OK]   TV Brasil Oeste                            https://5ad482a77183d.streamlock.net/operacaotbomt.com/ope
+     [OK]   TV Brusque                                 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.
+     [OK]   TV Câmara                                  https://stream3.camara.gov.br/tv1/manifest.m3u8
+     [OK]   TV CRET                                    https://radiocret.net:8082/hls/tvcret.m3u8
+     [OK]   TV Curuça                                  https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u
+     [OK]   TVE RS                                     https://streaming.procergs.com.br:8443/tve/stve/playlist.m
+     [OK]   TV Getsemani                               https://serversv.com:8080/hls/tvgetsemani.m3u8
+     [OK]   TVídeoNews                                 https://video01.logicahost.com.br/tvideonews/tvideonews/pl
+     [OK]   TV Leon de Juda                            https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3
+     [OK]   TV Life America                            https://streaming.cloudecast.com/hls/tvlifeamerica/index.m
+     [OK]   TV Mais Maricá                             https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaisma
+     [OK]   TV Marajoara                               https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playli
+     [OK]   TV Metropole                               https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fu
+     [OK]   TVNBN                                      https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/pl
+     [OK]   TV Padre Cicero                            https://video01.logicahost.com.br/tvpadrecicero/tvpadrecic
+     [OK]   TV Series 1 As Panteras                    https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+     [OK]   TV Terceiro Anjo                           https://streamer1.streamhost.org/salive/GMI3anjoh/playlist
+     [OK]   TV UFOP                                    https://app.tvufop.com.br/hls/tvufop.m3u8
+     [OK]   TV Universal                               https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.s
+     [OK]   TV Zimbo                                   https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.
+     [OK]   TV Zoom                                    https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/pl
+     [OK]   UMA TV                                     https://umatv.nuvemplay.live/hls/stream.m3u8
+     [OK]   UNISUL TV                                  https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?t
+     [OK]   UniTV                                      https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+     [OK]   Vale TV                                    https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480
+     [OK]   Venevision Internacional                   https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-b
+
+   --- canais com problema ---
+     [--]   Anzoategui TV                              parado         http_404
+     [--]   Arbol de Vida TV                           parado         erro_rede
+     [--]   Assembleia SC: AO VIVO                     parado         nao_e_m3u8
+     [--]   Band                                       embed          https://beyond.spalla.io/playe
+     [--]   Bluey Brasil                               parado         nao_e_m3u8
+     [--]   Boa Vontade TV                             parado         nao_e_m3u8
+     [--]   Canal 26 TV IAP                            parado         erro_rede
+     [--]   Canal Gov                                  parado         nao_e_m3u8
+     [--]   CWB TV                                     parado         http_404
+     [--]   DiaTV                                      parado         nao_e_m3u8
+     [--]   Diva Depressão                             parado         nao_e_m3u8
+     [--]   ElyTV                                      parado         http_404
+     [--]   KpopTV Play                                parado         erro_rede
+     [--]   NickOnline                                 parado         nao_e_m3u8
+     [--]   Novo Tempo                                 parado         erro_rede
+     [--]   Peppa Pig Brasil                           parado         nao_e_m3u8
+     [--]   PJ Masks Brasil                            parado         nao_e_m3u8
+     [--]   RBATV                                      embed          https://player.jmvstream.com/l
+     [--]   Rede Massa                                 youtube        <iframe src="https://www.youtu
+     [--]   Rede Novo Tempo de Comunicação             parado         nao_e_m3u8
+     [--]   RedeTV!                                    embed          https://geo.dailymotion.com/pl
+     [--]   Rio TV Câmara                              parado         nao_e_m3u8
+     [--]   Santuário Nacional de Aparecida            parado         nao_e_m3u8
+     [--]   SBT CENTRAL                                youtube        <iframe     width="1280"     h
+     [--]   SBT RIBEIRÃO PRETO                         parado         nao_e_m3u8
+     [--]   SBT Rio                                    youtube        <iframe     width="1280"     h
+     [--]   SBT RS                                     youtube        <iframe src="https://www.youtu
+     [--]   Somos TV                                   parado         http_404
+     [--]   TAM TV                                     parado         erro_rede
+     [--]   Tigo Sports                                parado         erro_rede
+     [--]   TNO Radio                                  parado         http_403
+     [--]   TV A Folha                                 parado         sem_segmentos
+     [--]   TV ALERJ                                   parado         nao_e_m3u8
+     [--]   TV Aparecida                               parado         nao_e_m3u8
+     [--]   TV Assembleia Minas Gerais                 parado         nao_e_m3u8
+     [--]   TVCa                                       parado         erro_rede
+     [--]   TV Câmara Porto Alegre                     parado         nao_e_m3u8
+     [--]   TV Canção Nova                             parado         nao_e_m3u8
+     [--]   TV do Povo                                 parado         http_403
+     [--]   TV Encontro das Aguas                      parado         http_403
+     [--]   TV Justiça                                 parado         nao_e_m3u8
+     [--]   TV Mundo Maior                             parado         nao_e_m3u8
+     [--]   TV Nordestina                              parado         nao_e_m3u8
+     [--]   TV Notícia                                 parado         nao_e_m3u8
+     [--]   TV Paraense                                parado         http_404
+     [--]   TV Sim São Mateus                          parado         http_404
+     [--]   TV Sul de Minas                            parado         http_404
+     [--]   TV Thathi SBT                              parado         nao_e_m3u8
+     [--]   UN24                                       parado         http_404
+     [--]   WOW TV                                     parado         nao_e_m3u8
+
+[5/5] Reconciliando com a lista anterior...
+
+==========================================================================
+ LISTA GERADA: tvonlineaovivo.m3u
+ Canais na lista .......... 74
+ Novos .................... 0
+ Mantidos ................. 74
+ Removidos (6 falhas) ..... 0
+
+ Canais por categoria:
+   Geral Venezuela        11
+   Religioso              9
+   Geral Brasil           7
+   Entretenimento Brasil  6
+   Geral El Salvador      6
+   Cultura Brasil         5
+   Notícias Brasil        5
+   Religioso El Salvador  5
+   Animação Brasil        3
+   Educação Brasil        2
+   Geral                  2
+   Legislativo            2
+   Música                 2
+   Notícias Venezuela     2
+   Clássicos Brasil       1
+   Séries Brasil          1
+   Cultura                1
+   Entretenimento         1
+   Geral Angola           1
+   Estilo de Vida         1
+   Religioso Venezuela    1
+
+ Tempo total: 264.5s
+==========================================================================
