@@ -1,0 +1,50 @@
+==========================================================================
+ TV ONLINE AO VIVO -> M3U para SS IPTV
+ Inicio: 14/11/2026 04:08:37
+==========================================================================
+
+[1/5] Lendo as categorias do site...
+Categorias encontradas no site: 37
+
+[2/5] Coletando canais (1a pagina + 'Carregar mais' ate o fim)...
+   animacao                           paginas=2   canais=6
+   animacao/brazil                    paginas=2   canais=6
+   infantil                           paginas=2   canais=6
+   infantil/brazil-infantil           paginas=2   canais=6
+   classicos                          paginas=2   canais=4
+   classicos/brazil-classicos         paginas=2   canais=4
+   series                             paginas=2   canais=5
+   series/brazil-series               paginas=2   canais=5
+   cultura                            paginas=2   canais=9
+   cultura/brazil-cultura             paginas=2   canais=8
+   noticias                           paginas=2   canais=19
+   noticias/brazil-noticias           paginas=2   canais=19
+   educacao                           paginas=2   canais=8
+   educacao/brazil-educacao           paginas=2   canais=8
+   entretenimento                     paginas=2   canais=17
+   entretenimento/brazil-entretenimento paginas=2   canais=16
+   geral                              paginas=2   canais=18
+   geral/brazil-geral                 paginas=2   canais=18
+   legislativo                        paginas=2   canais=11
+   musica                             paginas=2   canais=6
+   religioso                          paginas=2   canais=19
+   cultura/ethiopia                   paginas=2   canais=4
+   entretenimento/venezuela           paginas=2   canais=4
+   geral/el-salvador                  paginas=2   canais=11
+   geral/venezuela-geral              paginas=2   canais=19
+   geral/angola                       paginas=2   canais=4
+   legislativo/el-salvador-legislativo paginas=2   canais=4
+   estilo-de-vida                     paginas=2   canais=4
+   estilo-de-vida/venezuela-estilo-de-vida paginas=2   canais=4
+   musica/venezuela-musica            paginas=2   canais=4
+   musica/angola-musica               paginas=2   canais=4
+   noticias/venezuela-noticias        paginas=2   canais=6
+   religioso/el-salvador-religioso    paginas=2   canais=12
+   religioso/angola-religioso         paginas=2   canais=4
+   religioso/venezuela-religioso      paginas=2   canais=4
+   esportes                           paginas=2   canais=4
+   esportes/el-salvador-esportes      paginas=2   canais=4
+
+   Total de canais unicos encontrados no site: 124
+
+[3/5] Extraindo o link de video de cada canal...
