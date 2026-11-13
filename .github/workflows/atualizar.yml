@@ -1,1 +1,86 @@
+name: Atualizar lista M3U
 
+on:
+  schedule:
+    # a cada 6 horas (UTC). 00:15, 06:15, 12:15, 18:15
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - "gerar_m3u.py"
+      - ".github/workflows/atualizar.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-m3u
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Gerar e testar a lista
+        env:
+          LOG_DETALHADO: "1"
+          INCLUIR_INTERNACIONAIS: "1"
+        run: |
+          python gerar_m3u.py 2>&1 | tee ultima_execucao.log
+
+      - name: Verificar o resultado
+        if: always()
+        run: |
+          echo "--- resumo ---"
+          if [ -f relatorio.json ]; then cat relatorio.json; fi
+          if [ -f tvonlineaovivo.m3u ]; then
+            echo "Canais na lista: $(grep -c '^#EXTINF' tvonlineaovivo.m3u || true)"
+          fi
+
+      - name: Publicar a lista atualizada
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # so comita se algum arquivo de saida realmente mudou
+          git add tvonlineaovivo.m3u tvonlineaovivo.xml estado_canais.json relatorio.json ultima_execucao.log 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Nada mudou nesta execucao."
+            exit 0
+          fi
+
+          git commit -m "Lista M3U atualizada - $(date -u '+%d/%m/%Y %H:%M UTC')"
+
+          # reconcilia com o remoto antes de enviar (evita 'fetch first')
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin ${GITHUB_REF_NAME} && git push origin HEAD:${GITHUB_REF_NAME}; then
+              echo "Publicado com sucesso."
+              exit 0
+            fi
+            echo "Tentativa $i falhou, repetindo..."
+            sleep 5
+          done
+          echo "Nao foi possivel publicar apos 5 tentativas."
+          exit 1
+
+      - name: Guardar o log da execucao
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: log-execucao
+          path: ultima_execucao.log
+          retention-days: 14
