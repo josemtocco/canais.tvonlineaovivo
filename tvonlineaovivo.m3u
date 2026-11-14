@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:TV Online Ao Vivo — atualizado em 14/11/2026 06:34
+#PLAYLIST:TV Online Ao Vivo — atualizado em 14/11/2026 18:06
 #EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" tvg-logo="" group-title="Geral" content-type="video",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitv" tvg-name="UniTV" tvg-logo="" group-title="Geral" content-type="video",UniTV
@@ -62,6 +62,8 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvdeonews" tvg-name="TVídeoNews" tvg-logo="" group-title="Notícias Brasil" content-type="video",TVídeoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvsimsomateus" tvg-name="TV Sim São Mateus" tvg-logo="" group-title="Notícias Brasil" content-type="video",TV Sim São Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvzoom" tvg-name="TV Zoom" tvg-logo="" group-title="Notícias Brasil" content-type="video",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="" group-title="Notícias Venezuela" content-type="video",Telesur
