@@ -1,6 +1,6 @@
 ==========================================================================
  TV ONLINE AO VIVO -> M3U para SS IPTV
- Inicio: 14/11/2026 18:03:53
+ Inicio: 14/11/2026 22:25:20
 ==========================================================================
 
 [1/5] Lendo as categorias do site...
@@ -95,10 +95,11 @@ Categorias encontradas no site: 37
      [OK]   Reforma TV                                 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/p
      [OK]   RIT TV                                     https://acesso.ecast.site:3648/live/ritlive.m3u8
      [OK]   RTV Canal 57                               https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-     [OK]   Siembra TV                                 https://cloud2.streaminglivehd.com:1936/siembratv/siembrat
+     [OK]   SBT                                        https://video05.logicahost.com.br/tvguajara/tvguajara/play
      [OK]   STZ TV                                     https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlis
      [OK]   TaberTV                                    https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/
      [OK]   TCM 10 HD                                  https://live.tcm10.com.br/tcm10hd/stream.m3u8
+     [OK]   Telecolor                                  https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
      [OK]   Telesur                                    https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/pl
      [OK]   Telesur English                            https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/play
      [OK]   Televisora de Oriente                      https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
@@ -107,7 +108,6 @@ Categorias encontradas no site: 37
      [OK]   TV Câmara                                  https://stream3.camara.gov.br/tv1/manifest.m3u8
      [OK]   TV CRET                                    https://radiocret.net:8082/hls/tvcret.m3u8
      [OK]   TV Curuça                                  https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u
-     [OK]   TVE RS                                     https://streaming.procergs.com.br:8443/tve/stve/playlist.m
      [OK]   TV Getsemani                               https://serversv.com:8080/hls/tvgetsemani.m3u8
      [OK]   TVídeoNews                                 https://video01.logicahost.com.br/tvideonews/tvideonews/pl
      [OK]   TV Leon de Juda                            https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3
@@ -155,17 +155,16 @@ Categorias encontradas no site: 37
      [--]   RedeTV!                                    embed          https://geo.dailymotion.com/pl
      [--]   Rio TV Câmara                              parado         nao_e_m3u8
      [--]   Santuário Nacional de Aparecida            parado         nao_e_m3u8
-     [--]   SBT                                        parado         timeout
      [--]   SBT CENTRAL                                youtube        <iframe     width="1280"     h
      [--]   SBT RIBEIRÃO PRETO                         parado         nao_e_m3u8
      [--]   SBT Rio                                    youtube        <iframe     width="1280"     h
      [--]   SBT RS                                     youtube        <iframe src="https://www.youtu
+     [--]   Siembra TV                                 parado         http_404
      [--]   Somos TV                                   parado         http_404
      [--]   TAM TV                                     parado         erro_rede
-     [--]   Telecolor                                  parado         http_404
      [--]   Tigo Sports                                parado         erro_rede
      [--]   TNO Radio                                  parado         http_403
-     [--]   TV A Folha                                 parado         sem_segmentos
+     [--]   TV A Folha                                 parado         http_404
      [--]   TV ALERJ                                   parado         nao_e_m3u8
      [--]   TV Aparecida                               parado         nao_e_m3u8
      [--]   TV Arapuan                                 parado         erro_rede
@@ -177,6 +176,7 @@ Categorias encontradas no site: 37
      [--]   TV Canção Nova                             parado         nao_e_m3u8
      [--]   TV do Povo                                 parado         http_403
      [--]   TV Encontro das Aguas                      parado         http_403
+     [--]   TVE RS                                     parado         erro_rede
      [--]   TV Justiça                                 parado         nao_e_m3u8
      [--]   TV Mundo Maior                             parado         nao_e_m3u8
      [--]   TV Nordestina                              parado         nao_e_m3u8
@@ -188,19 +188,18 @@ Categorias encontradas no site: 37
      [--]   WOW TV                                     parado         nao_e_m3u8
 
 [5/5] Reconciliando com a lista anterior...
-     + NOVO .... TV Sim São Mateus
-     ~ AGUARDANDO SBT  (falha 1/6)
-     ~ AGUARDANDO TV Brusque  (falha 1/6)
-     ~ AGUARDANDO TV Arapuan  (falha 1/6)
-     ~ AGUARDANDO TV Brasil Oeste  (falha 1/6)
-     ~ AGUARDANDO Telecolor  (falha 1/6)
-     ~ AGUARDANDO Canal 10  (falha 2/6)
+     ~ AGUARDANDO TVE RS  (falha 1/6)
+     ~ AGUARDANDO Siembra TV  (falha 1/6)
+     ~ AGUARDANDO TV Brusque  (falha 2/6)
+     ~ AGUARDANDO TV Arapuan  (falha 2/6)
+     ~ AGUARDANDO TV Brasil Oeste  (falha 2/6)
+     ~ AGUARDANDO Canal 10  (falha 3/6)
 
 ==========================================================================
  LISTA GERADA: tvonlineaovivo.m3u
  Canais na lista .......... 75
- Novos .................... 1
- Mantidos ................. 68
+ Novos .................... 0
+ Mantidos ................. 69
  Removidos (6 falhas) ..... 0
 
  Canais por categoria:
@@ -226,5 +225,5 @@ Categorias encontradas no site: 37
    Estilo de Vida         1
    Religioso Venezuela    1
 
- Tempo total: 162.1s
+ Tempo total: 168.1s
 ==========================================================================
