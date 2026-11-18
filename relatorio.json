@@ -1,12 +1,12 @@
 {
-  "atualizado": "2026-11-17 20:59:17",
+  "atualizado": "2026-11-18 07:33:18",
   "canais_no_site": 124,
-  "canais_tocando": 77,
-  "canais_sem_play": 40,
+  "canais_tocando": 74,
+  "canais_sem_play": 43,
   "youtube_embed_ignorados": 7,
   "na_lista_final": 78,
-  "novos": 2,
-  "mantidos": 75,
+  "novos": 0,
+  "mantidos": 74,
   "removidos": 0,
   "por_categoria": {
     "Geral Venezuela": 13,
@@ -31,5 +31,5 @@
     "Estilo de Vida": 1,
     "Religioso Venezuela": 1
   },
-  "duracao_segundos": 166.9
+  "duracao_segundos": 193.1
 }
