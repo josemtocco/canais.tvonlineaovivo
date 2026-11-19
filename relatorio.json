@@ -1,12 +1,12 @@
 {
-  "atualizado": "2026-11-18 20:36:05",
+  "atualizado": "2026-11-19 07:30:44",
   "canais_no_site": 124,
-  "canais_tocando": 74,
-  "canais_sem_play": 43,
+  "canais_tocando": 73,
+  "canais_sem_play": 44,
   "youtube_embed_ignorados": 7,
   "na_lista_final": 78,
   "novos": 0,
-  "mantidos": 74,
+  "mantidos": 73,
   "removidos": 0,
   "por_categoria": {
     "Geral Venezuela": 13,
@@ -26,10 +26,10 @@
     "Clássicos Brasil": 1,
     "Séries Brasil": 1,
     "Cultura": 1,
-    "Entretenimento": 1,
+    "Entretenimento Venezuela": 1,
     "Geral Angola": 1,
     "Estilo de Vida": 1,
     "Religioso Venezuela": 1
   },
-  "duracao_segundos": 171.4
+  "duracao_segundos": 162.8
 }

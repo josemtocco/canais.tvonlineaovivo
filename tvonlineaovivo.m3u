@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:TV Online Ao Vivo — atualizado em 18/11/2026 20:36
+#PLAYLIST:TV Online Ao Vivo — atualizado em 19/11/2026 07:30
 #EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" tvg-logo="" group-title="Geral" content-type="video",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitv" tvg-name="UniTV" tvg-logo="" group-title="Geral" content-type="video",UniTV
@@ -74,8 +74,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesurenglish" tvg-name="Telesur English" tvg-logo="" group-title="Notícias Venezuela" content-type="video",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Mastalk" tvg-name="Mas Talk" tvg-logo="" group-title="Entretenimento" content-type="video",Mas Talk
-https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="Chromatv" tvg-name="Chroma TV" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Elytv" tvg-name="ElyTV" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",ElyTV
@@ -90,6 +88,8 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="Umatv" tvg-name="UMA TV" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Mastalk" tvg-name="Mas Talk" tvg-logo="" group-title="Entretenimento Venezuela" content-type="video",Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="Tvseries1Aspanteras" tvg-name="TV Series 1 As Panteras" tvg-logo="" group-title="Séries Brasil" content-type="video",TV Series 1 As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="Geekdot" tvg-name="Geekdot" tvg-logo="" group-title="Animação Brasil" content-type="video",Geekdot
