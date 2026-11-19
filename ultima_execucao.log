@@ -1,6 +1,6 @@
 ==========================================================================
  TV ONLINE AO VIVO -> M3U para SS IPTV
- Inicio: 19/11/2026 07:28:02
+ Inicio: 19/11/2026 20:38:44
 ==========================================================================
 
 [1/5] Lendo as categorias do site...
@@ -55,14 +55,16 @@ Categorias encontradas no site: 37
 
 [4/5] Testando se os links estao tocando...
 
-   TOCANDO ............ 73
-   NAO TOCANDO ........ 44  (contam falha)
+   TOCANDO ............ 75
+   NAO TOCANDO ........ 42  (contam falha)
    YOUTUBE/EMBED ...... 7  (nao tocam no SS IPTV, ignorados)
 
    --- canais OK ---
      [OK]   Agape TV                                   https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil
+     [OK]   Anzoategui TV                              https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playli
      [OK]   AWTV                                       https://awtv.nuvemplay.live/hls/stream.m3u8
      [OK]   BTA TV                                     https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u
+     [OK]   Canal 10                                   https://5ca3e84a76d30.streamlock.net/tves/videotves/playli
      [OK]   Canal 11 TuTV                              https://stream.giostreaming.app/canal11/canal11.m3u8
      [OK]   Canal 21 Tachira                           https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
      [OK]   Canal 3 Impresionante                      https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
@@ -97,7 +99,6 @@ Categorias encontradas no site: 37
      [OK]   RIT TV                                     https://acesso.ecast.site:3648/live/ritlive.m3u8
      [OK]   RTV Canal 57                               https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
      [OK]   SBT                                        https://video05.logicahost.com.br/tvguajara/tvguajara/play
-     [OK]   Siembra TV                                 https://cloud2.streaminglivehd.com:1936/siembratv/siembrat
      [OK]   STZ TV                                     https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlis
      [OK]   TaberTV                                    https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/
      [OK]   TCM 10 HD                                  https://live.tcm10.com.br/tcm10hd/stream.m3u8
@@ -108,6 +109,7 @@ Categorias encontradas no site: 37
      [OK]   TRT                                        https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
      [OK]   TV Aldeia                                  https://stmv1.samcast.com.br/giovane7843/giovane7843/playl
      [OK]   TV Arapuan                                 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_
+     [OK]   TV Brasil Oeste                            https://5ad482a77183d.streamlock.net/operacaotbomt.com/ope
      [OK]   TV Brusque                                 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.
      [OK]   TV Câmara                                  https://stream3.camara.gov.br/tv1/manifest.m3u8
      [OK]   TV CRET                                    https://radiocret.net:8082/hls/tvcret.m3u8
@@ -135,13 +137,11 @@ Categorias encontradas no site: 37
      [OK]   Venevision Internacional                   https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-b
 
    --- canais com problema ---
-     [--]   Anzoategui TV                              parado         http_404
      [--]   Arbol de Vida TV                           parado         erro_rede
      [--]   Assembleia SC: AO VIVO                     parado         nao_e_m3u8
      [--]   Band                                       embed          https://beyond.spalla.io/playe
      [--]   Bluey Brasil                               parado         nao_e_m3u8
      [--]   Boa Vontade TV                             parado         nao_e_m3u8
-     [--]   Canal 10                                   parado         http_404
      [--]   Canal 26 TV IAP                            parado         erro_rede
      [--]   Canal Gov                                  parado         nao_e_m3u8
      [--]   CWB TV                                     parado         http_404
@@ -162,6 +162,7 @@ Categorias encontradas no site: 37
      [--]   SBT RIBEIRÃO PRETO                         parado         nao_e_m3u8
      [--]   SBT Rio                                    youtube        <iframe     width="1280"     h
      [--]   SBT RS                                     youtube        <iframe src="https://www.youtu
+     [--]   Siembra TV                                 parado         http_404
      [--]   Somos TV                                   parado         http_404
      [--]   TAM TV                                     parado         erro_rede
      [--]   Tigo Sports                                parado         erro_rede
@@ -170,7 +171,6 @@ Categorias encontradas no site: 37
      [--]   TV ALERJ                                   parado         nao_e_m3u8
      [--]   TV Aparecida                               parado         nao_e_m3u8
      [--]   TV Assembleia Minas Gerais                 parado         nao_e_m3u8
-     [--]   TV Brasil Oeste                            parado         http_403
      [--]   TVCa                                       parado         erro_rede
      [--]   TV Câmara Porto Alegre                     parado         nao_e_m3u8
      [--]   TV Canção Nova                             parado         nao_e_m3u8
@@ -188,27 +188,25 @@ Categorias encontradas no site: 37
      [--]   WOW TV                                     parado         nao_e_m3u8
 
 [5/5] Reconciliando com a lista anterior...
-     ~ AGUARDANDO Canal 10  (falha 1/6)
-     ~ AGUARDANDO Somos TV  (falha 1/6)
-     ~ AGUARDANDO Anzoategui TV  (falha 1/6)
-     ~ AGUARDANDO TV Brasil Oeste  (falha 3/6)
-     ~ AGUARDANDO TV Sim São Mateus  (falha 5/6)
+     ~ AGUARDANDO Siembra TV  (falha 1/6)
+     ~ AGUARDANDO Somos TV  (falha 2/6)
+     - REMOVIDO  TV Sim São Mateus  (6 falhas seguidas)
 
 ==========================================================================
  LISTA GERADA: tvonlineaovivo.m3u
- Canais na lista .......... 78
+ Canais na lista .......... 77
  Novos .................... 0
- Mantidos ................. 73
- Removidos (6 falhas) ..... 0
+ Mantidos ................. 75
+ Removidos (6 falhas) ..... 1
 
  Canais por categoria:
    Geral Venezuela        13
    Religioso              9
    Entretenimento Brasil  7
    Geral Brasil           7
-   Notícias Brasil        6
    Geral El Salvador      6
    Cultura Brasil         5
+   Notícias Brasil        5
    Religioso El Salvador  5
    Animação Brasil        3
    Educação Brasil        2
@@ -224,5 +222,5 @@ Categorias encontradas no site: 37
    Estilo de Vida         1
    Religioso Venezuela    1
 
- Tempo total: 162.8s
+ Tempo total: 192.7s
 ==========================================================================
