@@ -1,18 +1,18 @@
 {
-  "atualizado": "2026-11-22 06:53:16",
+  "atualizado": "2026-11-22 19:45:09",
   "canais_no_site": 124,
-  "canais_tocando": 70,
-  "canais_sem_play": 47,
+  "canais_tocando": 73,
+  "canais_sem_play": 44,
   "youtube_embed_ignorados": 7,
-  "na_lista_final": 77,
+  "na_lista_final": 76,
   "novos": 0,
-  "mantidos": 70,
-  "removidos": 0,
+  "mantidos": 73,
+  "removidos": 1,
   "por_categoria": {
     "Geral Venezuela": 13,
     "Religioso": 9,
     "Entretenimento Brasil": 7,
-    "Geral Brasil": 7,
+    "Geral Brasil": 6,
     "Geral El Salvador": 6,
     "Cultura Brasil": 5,
     "Notícias Brasil": 5,
@@ -31,5 +31,5 @@
     "Estilo de Vida": 1,
     "Religioso Venezuela": 1
   },
-  "duracao_segundos": 179.9
+  "duracao_segundos": 155.6
 }

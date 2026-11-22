@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:TV Online Ao Vivo — atualizado em 22/11/2026 06:53
+#PLAYLIST:TV Online Ao Vivo — atualizado em 22/11/2026 19:45
 #EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" tvg-logo="" group-title="Geral" content-type="video",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitv" tvg-name="UniTV" tvg-logo="" group-title="Geral" content-type="video",UniTV
@@ -8,8 +8,6 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Tvaldeia" tvg-name="TV Aldeia" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvarapuan" tvg-name="TV Arapuan" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvbrasiloeste" tvg-name="TV Brasil Oeste" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmaismaric" tvg-name="TV Mais Maricá" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Mais Maricá
