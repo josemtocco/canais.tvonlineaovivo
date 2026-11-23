@@ -1,23 +1,23 @@
 {
-  "atualizado": "2026-11-23 07:43:03",
+  "atualizado": "2026-11-23 23:57:08",
   "canais_no_site": 124,
-  "canais_tocando": 72,
-  "canais_sem_play": 45,
+  "canais_tocando": 74,
+  "canais_sem_play": 43,
   "youtube_embed_ignorados": 7,
-  "na_lista_final": 76,
-  "novos": 0,
-  "mantidos": 72,
+  "na_lista_final": 77,
+  "novos": 1,
+  "mantidos": 73,
   "removidos": 0,
   "por_categoria": {
     "Geral Venezuela": 13,
     "Religioso": 9,
-    "Entretenimento Brasil": 8,
-    "Geral Brasil": 6,
+    "Entretenimento Brasil": 7,
+    "Geral Brasil": 7,
     "Geral El Salvador": 6,
     "Cultura Brasil": 5,
     "Notícias Brasil": 5,
     "Religioso El Salvador": 5,
-    "Animação Brasil": 2,
+    "Animação Brasil": 3,
     "Educação Brasil": 2,
     "Geral": 2,
     "Legislativo": 2,
@@ -31,5 +31,5 @@
     "Estilo de Vida": 1,
     "Religioso Venezuela": 1
   },
-  "duracao_segundos": 140.1
+  "duracao_segundos": 138.8
 }

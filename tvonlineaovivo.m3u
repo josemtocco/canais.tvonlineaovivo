@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:TV Online Ao Vivo — atualizado em 23/11/2026 07:43
+#PLAYLIST:TV Online Ao Vivo — atualizado em 23/11/2026 23:57
 #EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" tvg-logo="" group-title="Geral" content-type="video",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitv" tvg-name="UniTV" tvg-logo="" group-title="Geral" content-type="video",UniTV
@@ -8,6 +8,8 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Tvaldeia" tvg-name="TV Aldeia" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvarapuan" tvg-name="TV Arapuan" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvbrasiloeste" tvg-name="TV Brasil Oeste" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmaismaric" tvg-name="TV Mais Maricá" tvg-logo="" group-title="Geral Brasil" content-type="video",TV Mais Maricá
@@ -80,8 +82,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Redengt" tvg-name="Rede NGT" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvcurua" tvg-name="TV Curuça" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",TV Curuça
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="Umatv" tvg-name="UMA TV" tvg-logo="" group-title="Entretenimento Brasil" content-type="video",UMA TV
@@ -94,6 +94,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="" group-title="Animação Brasil" content-type="video",Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT" tvg-logo="" group-title="Animação Brasil" content-type="video",SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="Btatv" tvg-name="BTA TV" tvg-logo="" group-title="Música" content-type="video",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="Muzangalatv" tvg-name="Muzangala TV" tvg-logo="" group-title="Música" content-type="video",Muzangala TV
