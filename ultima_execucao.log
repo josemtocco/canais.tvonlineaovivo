@@ -1,6 +1,6 @@
 ==========================================================================
  TV ONLINE AO VIVO -> M3U para SS IPTV
- Inicio: 22/11/2026 19:42:34
+ Inicio: 23/11/2026 07:40:43
 ==========================================================================
 
 [1/5] Lendo as categorias do site...
@@ -23,8 +23,8 @@ Categorias encontradas no site: 37
    educacao/brazil-educacao           paginas=2   canais=8
    entretenimento                     paginas=2   canais=16
    entretenimento/brazil-entretenimento paginas=2   canais=16
-   geral                              paginas=2   canais=18
-   geral/brazil-geral                 paginas=2   canais=18
+   geral                              paginas=2   canais=19
+   geral/brazil-geral                 paginas=2   canais=19
    legislativo                        paginas=2   canais=11
    musica                             paginas=2   canais=6
    religioso                          paginas=2   canais=19
@@ -55,8 +55,8 @@ Categorias encontradas no site: 37
 
 [4/5] Testando se os links estao tocando...
 
-   TOCANDO ............ 73
-   NAO TOCANDO ........ 44  (contam falha)
+   TOCANDO ............ 72
+   NAO TOCANDO ........ 45  (contam falha)
    YOUTUBE/EMBED ...... 7  (nao tocam no SS IPTV, ignorados)
 
    --- canais OK ---
@@ -91,7 +91,6 @@ Categorias encontradas no site: 37
      [OK]   PromarTV                                   https://vcp.myplaytv.com/promar/promar/playlist.m3u8
      [OK]   Record                                     https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_51
      [OK]   Record News                                https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-     [OK]   Rede Brasil                                https://redebrasil.nuvemplay.live/hls/stream.m3u8
      [OK]   Rede Gospel                                https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
      [OK]   Rede NGT                                   https://isaocorp.cloudecast.com/ngt/index.m3u8
      [OK]   Reforma TV                                 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/p
@@ -108,7 +107,6 @@ Categorias encontradas no site: 37
      [OK]   Televisora de Oriente                      https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
      [OK]   TRT                                        https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
      [OK]   TV Aldeia                                  https://stmv1.samcast.com.br/giovane7843/giovane7843/playl
-     [OK]   TV Brasil Oeste                            https://5ad482a77183d.streamlock.net/operacaotbomt.com/ope
      [OK]   TV Brusque                                 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.
      [OK]   TV Câmara                                  https://stream3.camara.gov.br/tv1/manifest.m3u8
      [OK]   TV CRET                                    https://radiocret.net:8082/hls/tvcret.m3u8
@@ -124,6 +122,7 @@ Categorias encontradas no site: 37
      [OK]   TVNBN                                      https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/pl
      [OK]   TV Padre Cicero                            https://video01.logicahost.com.br/tvpadrecicero/tvpadrecic
      [OK]   TV Series 1 As Panteras                    https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+     [OK]   TV Terceiro Anjo                           https://streamer1.streamhost.org/salive/GMI3anjoh/playlist
      [OK]   TV UFOP                                    https://app.tvufop.com.br/hls/tvufop.m3u8
      [OK]   TV Universal                               https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.s
      [OK]   TV Zimbo                                   https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.
@@ -152,6 +151,7 @@ Categorias encontradas no site: 37
      [--]   Peppa Pig Brasil                           parado         nao_e_m3u8
      [--]   PJ Masks Brasil                            parado         nao_e_m3u8
      [--]   RBATV                                      embed          https://player.jmvstream.com/l
+     [--]   Rede Brasil                                parado         http_500
      [--]   Rede Massa                                 youtube        <iframe src="https://www.youtu
      [--]   Rede Novo Tempo de Comunicação             parado         nao_e_m3u8
      [--]   RedeTV!                                    embed          https://geo.dailymotion.com/pl
@@ -170,6 +170,7 @@ Categorias encontradas no site: 37
      [--]   TV Aparecida                               parado         nao_e_m3u8
      [--]   TV Arapuan                                 parado         http_404
      [--]   TV Assembleia Minas Gerais                 parado         nao_e_m3u8
+     [--]   TV Brasil Oeste                            parado         http_403
      [--]   TVCa                                       parado         erro_rede
      [--]   TV Câmara Porto Alegre                     parado         nao_e_m3u8
      [--]   TV Canção Nova                             parado         nao_e_m3u8
@@ -182,34 +183,33 @@ Categorias encontradas no site: 37
      [--]   TV Paraense                                parado         http_404
      [--]   TV Sim São Mateus                          parado         http_404
      [--]   TV Sul de Minas                            parado         http_404
-     [--]   TV Terceiro Anjo                           parado         http_404
      [--]   TV Thathi SBT                              parado         nao_e_m3u8
      [--]   UN24                                       parado         http_404
      [--]   WOW TV                                     parado         nao_e_m3u8
 
 [5/5] Reconciliando com a lista anterior...
-     ~ AGUARDANDO TV Terceiro Anjo  (falha 1/6)
-     ~ AGUARDANDO Somos TV  (falha 3/6)
-     ~ AGUARDANDO Canal 10  (falha 4/6)
-     - REMOVIDO  TV Arapuan  (6 falhas seguidas)
+     ~ AGUARDANDO Rede Brasil  (falha 1/6)
+     ~ AGUARDANDO TV Brasil Oeste  (falha 1/6)
+     ~ AGUARDANDO Somos TV  (falha 4/6)
+     ~ AGUARDANDO Canal 10  (falha 5/6)
 
 ==========================================================================
  LISTA GERADA: tvonlineaovivo.m3u
  Canais na lista .......... 76
  Novos .................... 0
- Mantidos ................. 73
- Removidos (6 falhas) ..... 1
+ Mantidos ................. 72
+ Removidos (6 falhas) ..... 0
 
  Canais por categoria:
    Geral Venezuela        13
    Religioso              9
-   Entretenimento Brasil  7
+   Entretenimento Brasil  8
    Geral Brasil           6
    Geral El Salvador      6
    Cultura Brasil         5
    Notícias Brasil        5
    Religioso El Salvador  5
-   Animação Brasil        3
+   Animação Brasil        2
    Educação Brasil        2
    Geral                  2
    Legislativo            2
@@ -223,5 +223,5 @@ Categorias encontradas no site: 37
    Estilo de Vida         1
    Religioso Venezuela    1
 
- Tempo total: 155.6s
+ Tempo total: 140.1s
 ==========================================================================
