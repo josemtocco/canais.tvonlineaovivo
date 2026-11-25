@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-25 08:39",
+  "atualizado": "2026-11-25 21:45",
   "limite_falhas": 6,
   "canais": {
     "geekdot": {
@@ -12,7 +12,7 @@
         "animacao/brazil"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "record": {
@@ -60,7 +60,7 @@
         "esportes/el-salvador-esportes"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "sbt": {
@@ -108,7 +108,7 @@
         "esportes/el-salvador-esportes"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "awtv": {
@@ -123,7 +123,7 @@
         "series/brazil-series"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvseries1aspanteras": {
@@ -136,7 +136,7 @@
         "series/brazil-series"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "stztv": {
@@ -151,7 +151,7 @@
         "noticias/brazil-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "unisultv": {
@@ -166,7 +166,7 @@
         "educacao/brazil-educacao"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvers": {
@@ -181,7 +181,7 @@
         "educacao/brazil-educacao"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "ebs": {
@@ -194,7 +194,7 @@
         "cultura/ethiopia"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvufop": {
@@ -209,7 +209,7 @@
         "educacao/brazil-educacao"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvlifeamerica": {
@@ -222,7 +222,7 @@
         "cultura/brazil-cultura"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "recordnews": {
@@ -235,7 +235,7 @@
         "noticias/brazil-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvideonews": {
@@ -248,7 +248,7 @@
         "noticias/brazil-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvzoom": {
@@ -263,7 +263,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvbrusque": {
@@ -276,7 +276,7 @@
         "noticias/brazil-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tcm10hd": {
@@ -289,7 +289,7 @@
         "noticias/brazil-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "istv": {
@@ -302,7 +302,7 @@
         "educacao/brazil-educacao"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "canaleducacao": {
@@ -315,21 +315,7 @@
         "educacao/brazil-educacao"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
-      "primeira_vez": "2026-11-14 03:54"
-    },
-    "redebrasil": {
-      "titulo": "Rede Brasil",
-      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/rede-brasil",
-      "categorias": [
-        "entretenimento",
-        "entretenimento/brazil-entretenimento",
-        "geral"
-      ],
-      "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "umatv": {
@@ -342,7 +328,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvcuruca": {
@@ -355,7 +341,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "loading": {
@@ -368,7 +354,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "redengt": {
@@ -381,7 +367,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "chromatv": {
@@ -394,7 +380,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "elytv": {
@@ -407,7 +393,7 @@
         "entretenimento/brazil-entretenimento"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-16 06:34"
     },
     "tvarapuan": {
@@ -420,21 +406,21 @@
         "geral/brazil-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-23 23:57"
     },
-    "tvbrasiloeste": {
-      "titulo": "TV Brasil Oeste",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "canal10": {
+      "titulo": "Canal 10",
+      "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
       "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/tv-brasil-oeste",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/canal-10",
       "categorias": [
         "geral",
-        "geral/brazil-geral"
+        "geral/el-salvador"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
-      "primeira_vez": "2026-11-14 03:54"
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-16 22:07"
     },
     "tvmaismarica": {
       "titulo": "TV Mais Maricá",
@@ -446,7 +432,7 @@
         "geral/brazil-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "unitv": {
@@ -459,7 +445,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvnbn": {
@@ -472,7 +458,7 @@
         "geral/brazil-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvaldeia": {
@@ -485,7 +471,7 @@
         "geral/brazil-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvmetropole": {
@@ -497,7 +483,7 @@
         "geral/brazil-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvmarajoara": {
@@ -509,7 +495,7 @@
         "geral/brazil-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvcamara": {
@@ -521,7 +507,7 @@
         "legislativo"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "legislativeassemblyofelsalvador": {
@@ -534,7 +520,7 @@
         "legislativo/el-salvador-legislativo"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "btatv": {
@@ -547,7 +533,7 @@
         "musica/venezuela-musica"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "muzangalatv": {
@@ -560,7 +546,7 @@
         "musica/angola-musica"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "rittv": {
@@ -572,7 +558,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvuniversal": {
@@ -584,7 +570,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "redegospel": {
@@ -596,7 +582,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvpadrecicero": {
@@ -608,7 +594,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvterceiroanjo": {
@@ -620,7 +606,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "kktv": {
@@ -633,7 +619,20 @@
         "religioso/angola-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-14 03:54"
+    },
+    "elcaminotv": {
+      "titulo": "El Camino TV",
+      "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/el-camino-tv",
+      "categorias": [
+        "religioso",
+        "religioso/el-salvador-religioso"
+      ],
+      "falhas": 0,
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "gospelcartoon": {
@@ -645,7 +644,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "impdtvworldwide": {
@@ -657,7 +656,7 @@
         "religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "mastalk": {
@@ -669,7 +668,7 @@
         "entretenimento/venezuela"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "canal11tutv": {
@@ -681,7 +680,19 @@
         "geral/el-salvador"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-14 03:54"
+    },
+    "megavisioncanal19": {
+      "titulo": "Megavision Canal 19",
+      "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/megavision-canal-19",
+      "categorias": [
+        "geral/el-salvador"
+      ],
+      "falhas": 0,
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "rtvcanal57": {
@@ -693,7 +704,7 @@
         "geral/el-salvador"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "canal3impresionante": {
@@ -705,7 +716,7 @@
         "geral/el-salvador"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "agapetv": {
@@ -717,7 +728,19 @@
         "geral/el-salvador"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-14 03:54"
+    },
+    "megavisioncanal21": {
+      "titulo": "Megavision Canal 21",
+      "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/megavision-canal-21",
+      "categorias": [
+        "geral/el-salvador"
+      ],
+      "falhas": 0,
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "canal21tachira": {
@@ -729,7 +752,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "venevisioninternacional": {
@@ -741,8 +764,20 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
+    },
+    "somostv": {
+      "titulo": "Somos TV",
+      "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/somos-tv",
+      "categorias": [
+        "geral/venezuela-geral"
+      ],
+      "falhas": 0,
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-17 20:59"
     },
     "latinatv": {
       "titulo": "Latina TV",
@@ -753,7 +788,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "valetv": {
@@ -765,7 +800,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "telecolor": {
@@ -777,7 +812,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "televisoradeoriente": {
@@ -789,7 +824,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "catatumbotv": {
@@ -801,19 +836,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
-      "primeira_vez": "2026-11-14 03:54"
-    },
-    "trt": {
-      "titulo": "TRT",
-      "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/trt",
-      "categorias": [
-        "geral/venezuela-geral"
-      ],
-      "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "anzoateguitv": {
@@ -825,8 +848,20 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-17 20:59"
+    },
+    "trt": {
+      "titulo": "TRT",
+      "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/trt",
+      "categorias": [
+        "geral/venezuela-geral"
+      ],
+      "falhas": 0,
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-14 03:54"
     },
     "islatv": {
       "titulo": "Isla TV",
@@ -837,19 +872,7 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
-      "primeira_vez": "2026-11-14 03:54"
-    },
-    "siembratv": {
-      "titulo": "Siembra TV",
-      "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/siembra-tv",
-      "categorias": [
-        "geral/venezuela-geral"
-      ],
-      "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "promartv": {
@@ -861,7 +884,19 @@
         "geral/venezuela-geral"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
+      "primeira_vez": "2026-11-14 03:54"
+    },
+    "siembratv": {
+      "titulo": "Siembra TV",
+      "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/siembra-tv",
+      "categorias": [
+        "geral/venezuela-geral"
+      ],
+      "falhas": 0,
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvzimbo": {
@@ -873,7 +908,7 @@
         "geral/angola"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "ploustv": {
@@ -886,7 +921,7 @@
         "estilo-de-vida/venezuela-estilo-de-vida"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "telesurenglish": {
@@ -898,7 +933,7 @@
         "noticias/venezuela-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "telesur": {
@@ -910,7 +945,7 @@
         "noticias/venezuela-noticias"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvleondejuda": {
@@ -922,7 +957,7 @@
         "religioso/el-salvador-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tabertv": {
@@ -934,7 +969,7 @@
         "religioso/el-salvador-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvcret": {
@@ -946,7 +981,7 @@
         "religioso/el-salvador-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "josuetv": {
@@ -958,7 +993,7 @@
         "religioso/el-salvador-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "tvgetsemani": {
@@ -970,7 +1005,7 @@
         "religioso/el-salvador-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
     "reformatv": {
@@ -982,75 +1017,37 @@
         "religioso/venezuela-religioso"
       ],
       "falhas": 0,
-      "ultimo_ok": "2026-11-25 08:39",
+      "ultimo_ok": "2026-11-25 21:45",
       "primeira_vez": "2026-11-14 03:54"
     },
-    "canal10": {
-      "titulo": "Canal 10",
-      "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+    "redebrasil": {
+      "titulo": "Rede Brasil",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
       "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/canal-10",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/rede-brasil",
+      "categorias": [
+        "entretenimento",
+        "entretenimento/brazil-entretenimento",
+        "geral"
+      ],
+      "falhas": 1,
+      "ultimo_ok": "2026-11-25 08:39",
+      "primeira_vez": "2026-11-14 03:54",
+      "ultimo_status": "http_500"
+    },
+    "tvbrasiloeste": {
+      "titulo": "TV Brasil Oeste",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+      "logo": "",
+      "pagina": "https://canais.tvonlineaovivo.com.br/canal/tv-brasil-oeste",
       "categorias": [
         "geral",
-        "geral/el-salvador"
+        "geral/brazil-geral"
       ],
       "falhas": 1,
-      "ultimo_ok": "2026-11-24 22:30",
-      "primeira_vez": "2026-11-16 22:07",
-      "ultimo_status": "http_404"
-    },
-    "elcaminotv": {
-      "titulo": "El Camino TV",
-      "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/el-camino-tv",
-      "categorias": [
-        "religioso",
-        "religioso/el-salvador-religioso"
-      ],
-      "falhas": 1,
-      "ultimo_ok": "2026-11-24 22:30",
+      "ultimo_ok": "2026-11-25 08:39",
       "primeira_vez": "2026-11-14 03:54",
-      "ultimo_status": "http_404"
-    },
-    "megavisioncanal19": {
-      "titulo": "Megavision Canal 19",
-      "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/megavision-canal-19",
-      "categorias": [
-        "geral/el-salvador"
-      ],
-      "falhas": 1,
-      "ultimo_ok": "2026-11-24 22:30",
-      "primeira_vez": "2026-11-14 03:54",
-      "ultimo_status": "sem_segmentos"
-    },
-    "megavisioncanal21": {
-      "titulo": "Megavision Canal 21",
-      "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/megavision-canal-21",
-      "categorias": [
-        "geral/el-salvador"
-      ],
-      "falhas": 1,
-      "ultimo_ok": "2026-11-24 22:30",
-      "primeira_vez": "2026-11-14 03:54",
-      "ultimo_status": "sem_segmentos"
-    },
-    "somostv": {
-      "titulo": "Somos TV",
-      "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
-      "logo": "",
-      "pagina": "https://canais.tvonlineaovivo.com.br/canal/somos-tv",
-      "categorias": [
-        "geral/venezuela-geral"
-      ],
-      "falhas": 2,
-      "ultimo_ok": "2026-11-24 09:57",
-      "primeira_vez": "2026-11-17 20:59",
-      "ultimo_status": "http_404"
+      "ultimo_status": "http_403"
     }
   }
 }
