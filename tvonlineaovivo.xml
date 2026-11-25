@@ -27,7 +27,6 @@
   <channel id="Elytv"><display-name>ElyTV</display-name></channel>
   <channel id="Tvarapuan"><display-name>TV Arapuan</display-name></channel>
   <channel id="Tvbrasiloeste"><display-name>TV Brasil Oeste</display-name></channel>
-  <channel id="Canal10"><display-name>Canal 10</display-name></channel>
   <channel id="Tvmaismaric"><display-name>TV Mais Maricá</display-name></channel>
   <channel id="Unitv"><display-name>UniTV</display-name></channel>
   <channel id="Tvnbn"><display-name>TVNBN</display-name></channel>
@@ -44,20 +43,18 @@
   <channel id="Tvpadrecicero"><display-name>TV Padre Cicero</display-name></channel>
   <channel id="Tvterceiroanjo"><display-name>TV Terceiro Anjo</display-name></channel>
   <channel id="Kktv"><display-name>KK TV</display-name></channel>
-  <channel id="Elcaminotv"><display-name>El Camino TV</display-name></channel>
   <channel id="Gospelcartoon"><display-name>Gospel Cartoon</display-name></channel>
   <channel id="Impdtvworldwide"><display-name>IMPD TV Worldwide</display-name></channel>
   <channel id="Mastalk"><display-name>Mas Talk</display-name></channel>
   <channel id="Canal11Tutv"><display-name>Canal 11 TuTV</display-name></channel>
-  <channel id="Megavisioncanal19"><display-name>Megavision Canal 19</display-name></channel>
   <channel id="Rtvcanal57"><display-name>RTV Canal 57</display-name></channel>
   <channel id="Canal3Impresionante"><display-name>Canal 3 Impresionante</display-name></channel>
   <channel id="Agapetv"><display-name>Agape TV</display-name></channel>
-  <channel id="Megavisioncanal21"><display-name>Megavision Canal 21</display-name></channel>
   <channel id="Canal21Tachira"><display-name>Canal 21 Tachira</display-name></channel>
   <channel id="Venevisioninternacional"><display-name>Venevision Internacional</display-name></channel>
   <channel id="Latinatv"><display-name>Latina TV</display-name></channel>
   <channel id="Valetv"><display-name>Vale TV</display-name></channel>
+  <channel id="Telecolor"><display-name>Telecolor</display-name></channel>
   <channel id="Televisoradeoriente"><display-name>Televisora de Oriente</display-name></channel>
   <channel id="Catatumbotv"><display-name>Catatumbo TV</display-name></channel>
   <channel id="Trt"><display-name>TRT</display-name></channel>
@@ -75,83 +72,86 @@
   <channel id="Josuetv"><display-name>Josue TV</display-name></channel>
   <channel id="Tvgetsemani"><display-name>TV Getsemani</display-name></channel>
   <channel id="Reformatv"><display-name>Reforma TV</display-name></channel>
+  <channel id="Canal10"><display-name>Canal 10</display-name></channel>
+  <channel id="Elcaminotv"><display-name>El Camino TV</display-name></channel>
+  <channel id="Megavisioncanal19"><display-name>Megavision Canal 19</display-name></channel>
+  <channel id="Megavisioncanal21"><display-name>Megavision Canal 21</display-name></channel>
   <channel id="Somostv"><display-name>Somos TV</display-name></channel>
-  <channel id="Telecolor"><display-name>Telecolor</display-name></channel>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Geekdot"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Geekdot</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Record"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Record</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Sbt"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de SBT</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Awtv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de AWTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvseries1Aspanteras"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Series 1 As Panteras</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Stztv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de STZ TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Unisultv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de UNISUL TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvers"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TVE RS</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Ebs"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de EBS</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvufop"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV UFOP</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvlifeamerica"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Life America</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Recordnews"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Record News</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvdeonews"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TVídeoNews</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvzoom"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Zoom</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvbrusque"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Brusque</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tcm10Hd"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TCM 10 HD</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Istv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de ISTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Canaleducao"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal Educação</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Redebrasil"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Rede Brasil</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Umatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de UMA TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvcurua"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Curuça</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Loading"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Loading</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Redengt"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Rede NGT</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Chromatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Chroma TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Elytv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de ElyTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvarapuan"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Arapuan</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvbrasiloeste"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Brasil Oeste</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Canal10"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 10</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvmaismaric"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Mais Maricá</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Unitv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de UniTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvnbn"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TVNBN</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvaldeia"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Aldeia</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvmetropole"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Metropole</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvmarajoara"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Marajoara</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvcmara"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Câmara</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Legislativeassemblyofelsalvador"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Legislative Assembly of El Salvador</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Btatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de BTA TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Muzangalatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Muzangala TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Rittv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de RIT TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvuniversal"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Universal</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Redegospel"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Rede Gospel</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvpadrecicero"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Padre Cicero</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvterceiroanjo"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Terceiro Anjo</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Kktv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de KK TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Elcaminotv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de El Camino TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Gospelcartoon"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Gospel Cartoon</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Impdtvworldwide"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de IMPD TV Worldwide</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Mastalk"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Mas Talk</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Canal11Tutv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 11 TuTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Megavisioncanal19"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Megavision Canal 19</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Rtvcanal57"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de RTV Canal 57</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Canal3Impresionante"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 3 Impresionante</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Agapetv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Agape TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Megavisioncanal21"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Megavision Canal 21</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Canal21Tachira"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 21 Tachira</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Venevisioninternacional"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Venevision Internacional</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Latinatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Latina TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Valetv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Vale TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Televisoradeoriente"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Televisora de Oriente</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Catatumbotv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Catatumbo TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Trt"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TRT</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Anzoateguitv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Anzoategui TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Islatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Isla TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Siembratv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Siembra TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Promartv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de PromarTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvzimbo"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Zimbo</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Ploustv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Plous TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Telesurenglish"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Telesur English</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Telesur"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Telesur</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvleondejuda"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Leon de Juda</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tabertv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TaberTV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvcret"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV CRET</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Josuetv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Josue TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Tvgetsemani"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Getsemani</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Reformatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Reforma TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Somostv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Somos TV</desc></programme>
-  <programme start="20261124223021 +0000" stop="20261125223021 +0000" channel="Telecolor"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Telecolor</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Geekdot"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Geekdot</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Record"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Record</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Sbt"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de SBT</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Awtv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de AWTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvseries1Aspanteras"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Series 1 As Panteras</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Stztv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de STZ TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Unisultv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de UNISUL TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvers"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TVE RS</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Ebs"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de EBS</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvufop"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV UFOP</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvlifeamerica"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Life America</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Recordnews"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Record News</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvdeonews"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TVídeoNews</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvzoom"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Zoom</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvbrusque"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Brusque</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tcm10Hd"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TCM 10 HD</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Istv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de ISTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Canaleducao"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal Educação</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Redebrasil"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Rede Brasil</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Umatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de UMA TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvcurua"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Curuça</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Loading"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Loading</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Redengt"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Rede NGT</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Chromatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Chroma TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Elytv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de ElyTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvarapuan"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Arapuan</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvbrasiloeste"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Brasil Oeste</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvmaismaric"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Mais Maricá</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Unitv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de UniTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvnbn"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TVNBN</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvaldeia"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Aldeia</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvmetropole"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Metropole</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvmarajoara"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Marajoara</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvcmara"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Câmara</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Legislativeassemblyofelsalvador"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Legislative Assembly of El Salvador</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Btatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de BTA TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Muzangalatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Muzangala TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Rittv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de RIT TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvuniversal"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Universal</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Redegospel"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Rede Gospel</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvpadrecicero"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Padre Cicero</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvterceiroanjo"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Terceiro Anjo</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Kktv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de KK TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Gospelcartoon"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Gospel Cartoon</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Impdtvworldwide"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de IMPD TV Worldwide</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Mastalk"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Mas Talk</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Canal11Tutv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 11 TuTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Rtvcanal57"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de RTV Canal 57</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Canal3Impresionante"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 3 Impresionante</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Agapetv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Agape TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Canal21Tachira"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 21 Tachira</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Venevisioninternacional"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Venevision Internacional</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Latinatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Latina TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Valetv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Vale TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Telecolor"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Telecolor</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Televisoradeoriente"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Televisora de Oriente</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Catatumbotv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Catatumbo TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Trt"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TRT</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Anzoateguitv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Anzoategui TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Islatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Isla TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Siembratv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Siembra TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Promartv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de PromarTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvzimbo"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Zimbo</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Ploustv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Plous TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Telesurenglish"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Telesur English</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Telesur"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Telesur</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvleondejuda"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Leon de Juda</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tabertv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TaberTV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvcret"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV CRET</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Josuetv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Josue TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Tvgetsemani"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de TV Getsemani</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Reformatv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Reforma TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Canal10"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Canal 10</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Elcaminotv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de El Camino TV</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Megavisioncanal19"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Megavision Canal 19</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Megavisioncanal21"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Megavision Canal 21</desc></programme>
+  <programme start="20261125083907 +0000" stop="20261126083907 +0000" channel="Somostv"><title lang="pt">Ao Vivo</title><desc lang="pt">Transmissão ao vivo de Somos TV</desc></programme>
 </tv>
